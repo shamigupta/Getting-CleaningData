@@ -9,19 +9,16 @@ The R script called run_analysis.R does the following.
     - Creates an independent tidy data set with the average of each variable for each activity and each subject.
 
 ##Inputs 
-
 Project Data
   - https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 Project Script
-
+    - https://github.com/shamigupta/Getting-CleaningData/blob/master/run_analysis.R
 
 Execution
+    - Go to the R-Studio or (cran R) working directory
+    - Execute run_analyis.R
+    - Verify results
 
-- Go to the R-Studio or (cran R) working directory
-- Execute run_analyis.R
-- Verify results
-- 
-
-Output
-  File "tidydata.txt" saved in R working directory
+##Output
+    - File "tidydata.txt" saved in R working directory
