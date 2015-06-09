@@ -10,15 +10,16 @@ The R script called run_analysis.R does the following.
 
 ##Inputs 
 Project Data
-  - https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+- https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 Project Script
-    - https://github.com/shamigupta/Getting-CleaningData/blob/master/run_analysis.R
+- https://github.com/shamigupta/Getting-CleaningData/blob/master/run_analysis.R
 
 Execution
-    - Go to the R-Studio or (cran R) working directory
-    - Execute run_analyis.R
-    - Verify results
+- Go to the R-Studio or (cran R) working directory
+- Execute run_analyis.R
+- Verify results
 
 ##Output
-    - File "tidydata.txt" saved in R working directory
+Tidy Data
+- File "tidydata.txt" saved in R working directory
