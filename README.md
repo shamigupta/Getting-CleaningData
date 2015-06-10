@@ -1,4 +1,4 @@
-# Getting-CleaningData
+# Getting & Cleaning Data
 Course Project Repository
 
 The R script called run_analysis.R does the following. 
